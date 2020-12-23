@@ -1,0 +1,15 @@
+{
+  "name": "massnick-bot",
+  "version": "1.0.0",
+  "description": "Lightweight massnick bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stévan Corre",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
