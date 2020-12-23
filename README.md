@@ -44,3 +44,15 @@ To invite the bot in your server,
 - In *Scopes*, select **Bot**
 - In *Bot permissions*, select **Administrator**
 - Go on the link that has been generated
+
+# How to use
+
+Check ping
+```sh
+<prefix>ping
+```
+
+Massnick
+```sh
+<prefix>massnick <nick>
+```
